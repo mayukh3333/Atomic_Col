@@ -1,6 +1,6 @@
 # Atomic_Col
 
-"## 1. Introduction\n",
+## 1. Introduction\n,
 "\n",
     "This project studies the thermal model of N-particles system in an isolated square box of length L. Particles are assumed to be spheres of radius R.\n",
     "\n",
