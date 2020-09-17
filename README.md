@@ -1,11 +1,7 @@
 # Atomic_Col
 
-{
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## 1. Introduction\n",
-    "\n",
+"## 1. Introduction\n",
+"\n",
     "This project studies the thermal model of N-particles system in an isolated square box of length L. Particles are assumed to be spheres of radius R.\n",
     "\n",
     "Each collision is elastic in nature, particles move in a straight line untill a collision.\n",
