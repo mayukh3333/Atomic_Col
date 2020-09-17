@@ -7,8 +7,7 @@ Each collision is elastic in nature, particles move in a straight line untill a 
 
 To determine the final velocities after collisions we use these equations:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Equations](https://github.com/mayukh3333/Atomic_Col/blob/master/equation.png?raw=true?raw=true "Title")
 
-                                     
-                                     
+                                                                         
 This system can also be considered analogous to an ideal gas as there are no intramolecular forces. All collisions are elastic and we will also see the brownian motion of the gas later. 
